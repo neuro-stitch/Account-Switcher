@@ -1,0 +1,11 @@
+{
+  "name": "Account Switcher",
+  "author": "neuro-stitch",
+  "version": "1.0.0",
+  "description": "Switch between multiple Discord accounts with token saving.",
+  "license": "MIT",
+  "vendetta": {
+    "icon": "🔁",
+    "type": "plugin"
+  }
+}
